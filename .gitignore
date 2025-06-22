@@ -1,1 +1,3 @@
 /secrets/
+/src/__pycache__/
+/src/*.pyc
